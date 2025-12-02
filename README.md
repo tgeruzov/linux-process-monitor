@@ -23,5 +23,5 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone [https://github.com/ВАШ_НИК/linux-process-monitor.git](https://github.com/ВАШ_НИК/linux-process-monitor.git)
+   git clone [https://github.com/ВАШ_НИК/linux-process-monitor.git](https://github.com/tgeruzov/linux-process-monitor.git)
    cd linux-process-monitor
